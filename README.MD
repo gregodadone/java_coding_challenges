@@ -37,3 +37,10 @@ To get give you an initial verifiation, the following must be true:
 
 The conversion of a 10 digit phone number should be performed within 1000ms.
 
+## DislikeOfThrees
+
+https://codeforces.com/problemset/problem/1560/A
+
+## VladAndCandies
+
+https://codeforces.com/problemset/problem/1660/B
